@@ -1,0 +1,27 @@
+#title{
+    background-color: aquamarine;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    size: 3rem;
+    line-height: 1.5;
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
